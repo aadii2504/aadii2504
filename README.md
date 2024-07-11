@@ -19,11 +19,30 @@
 # 💻 Featured Blog Posts
 <!-- Blog post cards -->
 <!-- BEGIN BLOG-CARDS -->
-[![Mastering Axios with Async/Await: Unleashing the Power of HTTP Requests in JavaScript](https://cdn.hashnode.com/res/hashnode/image/upload/v1720231537647/c52d0ade-4aa9-432c-a4f9-d2329b3fdb7c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://aadiiblogs.hashnode.dev/mastering-axios-with-asyncawait-unleashing-the-power-of-http-requests-in-javascript)
-[![Making the Switch: From JavaScript to TypeScript 🎉](https://cdn.hashnode.com/res/hashnode/image/upload/v1719984163960/5f2bc0bc-ae89-40c9-be27-b7c91bd224ec.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://aadiiblogs.hashnode.dev/making-the-switch-from-javascript-to-typescript)
-[![The Magical Trio of JavaScript: Map, Filter, and Reduce](https://cdn.hashnode.com/res/hashnode/image/upload/v1719510547053/1ef392c1-0fd0-4a3b-9fdf-eef6f1e802be.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://aadiiblogs.hashnode.dev/the-magical-trio-of-javascript-map-filter-and-reduce)
-[![Unleashing the Power of Docker in Full-Stack Development: A Story of Transformation](https://cdn.hashnode.com/res/hashnode/image/upload/v1720110735671/4088306f-cb3b-40e4-a0ed-315d71bc54ec.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://aadiiblogs.hashnode.dev/unleashing-the-power-of-docker-in-full-stack-development-a-story-of-transformation)
+
+<!-- Blog Card 1 -->
+<a href="https://aadiiblogs.hashnode.dev/mastering-axios-with-asyncawait-unleashing-the-power-of-http-requests-in-javascript">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720231537647/c52d0ade-4aa9-432c-a4f9-d2329b3fdb7c.jpeg?w=800&h=420&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Mastering Axios with Async/Await" width="250" style="border-radius: 5px; border: 1px solid #dedede; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+</a>
+
+<!-- Blog Card 2 -->
+<a href="https://aadiiblogs.hashnode.dev/making-the-switch-from-javascript-to-typescript">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719984163960/5f2bc0bc-ae89-40c9-be27-b7c91bd224ec.png?w=800&h=420&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Making the Switch to TypeScript" width="250" style="border-radius: 5px; border: 1px solid #dedede; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+</a>
+
+<!-- Blog Card 3 -->
+<a href="https://aadiiblogs.hashnode.dev/the-magical-trio-of-javascript-map-filter-and-reduce">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719510547053/1ef392c1-0fd0-4a3b-9fdf-eef6f1e802be.png?w=800&h=420&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Magical Trio of JavaScript" width="250" style="border-radius: 5px; border: 1px solid #dedede; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+</a>
+
+<!-- Blog Card 4 -->
+<a href="https://aadiiblogs.hashnode.dev/unleashing-the-power-of-docker-in-full-stack-development-a-story-of-transformation">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720110735671/4088306f-cb3b-40e4-a0ed-315d71bc54ec.png?w=800&h=420&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Unleashing the Power of Docker" width="250" style="border-radius: 5px; border: 1px solid #dedede; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+</a>
+
 <!-- END BLOG-CARDS -->
+
+
 
 
 
