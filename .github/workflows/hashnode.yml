@@ -17,7 +17,7 @@ jobs:
         id: fetch_blogs
         uses: varunsridharan/action-hashnode-blog@main
         with:
-          USERNAME: 'aadiiblogs' # Hashnode Username (part before .hashnode.dev)
+          USERNAME: 'aadiiblogs' # Hashnode Username
           COUNT: 4 # Number of Posts to Fetch
           STYLE: "blog-grid-2"
           BLOG_URL: "https://aadiiblogs.hashnode.dev/"
@@ -26,11 +26,11 @@ jobs:
 
       - name: "📄 Update README with Blog Posts"
         run: |
-          echo '# Latest Blog Posts' > README.md
+          echo '## <a href="https://aadiiblogs.hashnode.dev/"><img src="https://github.com/aadii2504/aadii2504/blob/main/your-image.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode' > README.md
           echo '' >> README.md
-          echo '## Recent Blog Posts' >> README.md
-          echo '' >> README.md
+          echo '<!-- HASHNODE_BLOG:START -->' >> README.md
           echo "${{ steps.fetch_blogs.outputs.blog_posts }}" >> README.md
+          echo '<!-- HASHNODE_BLOG:END -->' >> README.md
 
       - name: "📤 Commit and Push Changes"
         uses: EndBug/add-and-commit@v9
