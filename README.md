@@ -15,6 +15,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadii2504" alt="aadii2504" /></a> </p>
 
 
+# 📝 Featured Hashnode Blogs
+
+<!-- BEGIN BLOG-CARDS -->
+[![5 Tips for Better Coding](https://example.com/images/tips-for-coding.jpg)](https://your-hashnode-blog-url.com/tips-for-coding)
+[![Understanding Algorithms](https://example.com/images/understanding-algorithms.jpg)](https://your-hashnode-blog-url.com/understanding-algorithms)
+[![How to Debug Effectively](https://example.com/images/debugging.jpg)](https://your-hashnode-blog-url.com/how-to-debug-effectively)
+<!-- END BLOG-CARDS -->
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=aadii2504&icon=4&color=6)](https://visitcount.itsvg.in)
 
