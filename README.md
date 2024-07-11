@@ -22,42 +22,43 @@
 # 💻 Featured Blog Posts
 
 <!-- BEGIN BLOG-CARDS -->
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; padding: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; padding: 10px;">
 
   <!-- Blog 1 -->
-  <a href="https://aadiiblogs.hashnode.dev/mastering-axios-with-asyncawait-unleashing-the-power-of-http-requests-in-javascript" style="text-decoration: none; width: 220px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <a href="https://aadiiblogs.hashnode.dev/mastering-axios-with-asyncawait-unleashing-the-power-of-http-requests-in-javascript" style="text-decoration: none; width: 200px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720231537647/c52d0ade-4aa9-432c-a4f9-d2329b3fdb7c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Mastering Axios" style="width: 100%; height: 120px; object-fit: cover;">
-    <div style="padding: 8px; font-size: 12px; text-align: center; color: #333;">
+    <div style="padding: 8px; font-size: 14px; text-align: center; color: #333;">
       🌐 Mastering Axios with Async/Await
     </div>
   </a>
 
   <!-- Blog 2 -->
-  <a href="https://aadiiblogs.hashnode.dev/making-the-switch-from-javascript-to-typescript" style="text-decoration: none; width: 220px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <a href="https://aadiiblogs.hashnode.dev/making-the-switch-from-javascript-to-typescript" style="text-decoration: none; width: 200px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719984163960/5f2bc0bc-ae89-40c9-be27-b7c91bd224ec.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Switch to TypeScript" style="width: 100%; height: 120px; object-fit: cover;">
-    <div style="padding: 8px; font-size: 12px; text-align: center; color: #333;">
+    <div style="padding: 8px; font-size: 14px; text-align: center; color: #333;">
       🚀 Making the Switch to TypeScript
     </div>
   </a>
 
   <!-- Blog 3 -->
-  <a href="https://aadiiblogs.hashnode.dev/the-magical-trio-of-javascript-map-filter-and-reduce" style="text-decoration: none; width: 220px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <a href="https://aadiiblogs.hashnode.dev/the-magical-trio-of-javascript-map-filter-and-reduce" style="text-decoration: none; width: 200px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719510547053/1ef392c1-0fd0-4a3b-9fdf-eef6f1e802be.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="JavaScript Map, Filter, Reduce" style="width: 100%; height: 120px; object-fit: cover;">
-    <div style="padding: 8px; font-size: 12px; text-align: center; color: #333;">
+    <div style="padding: 8px; font-size: 14px; text-align: center; color: #333;">
       The Magical Trio of JavaScript
     </div>
   </a>
 
   <!-- Blog 4 -->
-  <a href="https://aadiiblogs.hashnode.dev/unleashing-the-power-of-docker-in-full-stack-development-a-story-of-transformation" style="text-decoration: none; width: 220px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <a href="https://aadiiblogs.hashnode.dev/unleashing-the-power-of-docker-in-full-stack-development-a-story-of-transformation" style="text-decoration: none; width: 200px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720110735671/4088306f-cb3b-40e4-a0ed-315d71bc54ec.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Power of Docker" style="width: 100%; height: 120px; object-fit: cover;">
-    <div style="padding: 8px; font-size: 12px; text-align: center; color: #333;">
+    <div style="padding: 8px; font-size: 14px; text-align: center; color: #333;">
       🌟 Unleashing the Power of Docker
     </div>
   </a>
 
 </div>
 <!-- END BLOG-CARDS -->
+
 
 
 
