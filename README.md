@@ -18,11 +18,34 @@
 
 # 📝 Featured Hashnode Blogs
 
-<!-- BEGIN BLOG-CARDS -->
-[![5 Tips for Better Coding](https://example.com/images/tips-for-coding.jpg)](https://your-hashnode-blog-url.com/tips-for-coding)
-[![Understanding Algorithms](https://example.com/images/understanding-algorithms.jpg)](https://your-hashnode-blog-url.com/understanding-algorithms)
-[![How to Debug Effectively](https://example.com/images/debugging.jpg)](https://your-hashnode-blog-url.com/how-to-debug-effectively)
-<!-- END BLOG-CARDS -->
+## <a href="https://aadiiblogs.hashnode.dev/"><img src="https://github.com/aadii2504/aadii2504/blob/main/your-image.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on Hashnode
+
+<!-- HASHNODE_BLOG:START -->
+<table><tr><td><a href="https://aadiiblogs.hashnode.dev//getting-started-with-blogging-a-beginners-guide" title="Getting Started with Blogging: A Beginners Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694621881990/9e837937-d888-4a19-989d-358d22fc5557.gif" alt="Getting Started with Blogging: A Beginners Guide"   /></a>
+<a href="https://aadiiblogs.hashnode.dev//getting-started-with-blogging-a-beginners-guide" title="Getting Started with Blogging: A Beginners Guide"><strong>Getting Started with Blogging: A Beginners Guide</strong></a>
+<div><strong>11 Mar 2023</strong> | <strong>Updated: 13 Sept 2023</strong></div>
+<br/> Introduction
+If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.
+Through this blog, we'll explore the basics of blogging, incl...</td><td><a href="https://aadiiblogs.hashnode.dev//my-journey-as-a-cco-at-showwcase" title="My Journey as a CCO at Showwcase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701414018222/ae5aa93d-1b01-4b9f-92a1-f603fb92f3e4.png" alt="My Journey as a CCO at Showwcase"   /></a>
+<a href="https://aadiiblogs.hashnode.dev//my-journey-as-a-cco-at-showwcase" title="My Journey as a CCO at Showwcase"><strong>My Journey as a CCO at Showwcase</strong></a>
+<div><strong>6 Jan 2024</strong></div>
+<br/> Hey There!👋🏼
+This article won't be a very technical one! Here I'll share My Journey as a CCO (Chief Creative Officer) at Showwcase, How I got the Chance, my learnings, and many more...
+So Let's Jump into it!
+What is CCO?
+
+CCO stands for Chief Creat...</td></tr><tr><td><a href="https://aadiiblogs.hashnode.dev//authenticate-your-react-app-with-appwrite" title="Authenticate your React App with Appwrite"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698927430236/ac4be39f-b800-47ff-9692-60bbdaf25754.png" alt="Authenticate your React App with Appwrite"   /></a>
+<a href="https://aadiiblogs.hashnode.dev//authenticate-your-react-app-with-appwrite" title="Authenticate your React App with Appwrite"><strong>Authenticate your React App with Appwrite</strong></a>
+<div><strong>20 Dec 2023</strong></div>
+<br/> Introduction
+User authentication is a crucial aspect of modern web applications. Implementing user authentication from scratch is not an easy task. However, With Appwrite we can easily perform user Authentication.
+In this article, We'll explore How t...</td><td><a href="https://aadiiblogs.hashnode.dev//authenticate-your-react-app-with-supabase" title="Authenticate your React App with Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695829688791/111c5c18-a25c-467a-a818-1ea32c4e5eea.png" alt="Authenticate your React App with Supabase"   /></a>
+<a href="https://aadiiblogs.hashnode.dev//authenticate-your-react-app-with-supabase" title="Authenticate your React App with Supabase"><strong>Authenticate your React App with Supabase</strong></a>
+<div><strong>9 Dec 2023</strong></div>
+<br/> Introduction
+User authentication is a crucial aspect of modern web applications. Implementing user authentication can be complex and time-consuming, especially when developing an application from scratch, That's where different service providers like...</td></tr></table>
+<!-- HASHNODE_BLOG:END -->
+
 
 
 ---
