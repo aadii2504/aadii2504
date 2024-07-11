@@ -1,0 +1,39 @@
+name: "📚 Blog Updater"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */1 * * *' # Runs Every 24 Hours
+
+jobs:
+  update_blogs:
+    name: "Update Blogs"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥 Fetching Repository Contents"
+        uses: actions/checkout@v3
+
+      - name: "📚 Fetch Latest Blog Posts"
+        id: fetch_blogs
+        uses: varunsridharan/action-hashnode-blog@main
+        with:
+          USERNAME: 'aadiiblogs' # Hashnode Username (part before .hashnode.dev)
+          COUNT: 4 # Number of Posts to Fetch
+          STYLE: "blog-grid-2"
+          BLOG_URL: "https://aadiiblogs.hashnode.dev/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📄 Update README with Blog Posts"
+        run: |
+          echo '# Latest Blog Posts' > README.md
+          echo '' >> README.md
+          echo '## Recent Blog Posts' >> README.md
+          echo '' >> README.md
+          echo "${{ steps.fetch_blogs.outputs.blog_posts }}" >> README.md
+
+      - name: "📤 Commit and Push Changes"
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'README.md'
+          message: 'Update README with latest blog posts'
