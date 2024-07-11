@@ -14,14 +14,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadii2504" alt="aadii2504" /></a> </p>
 
-# 📊 GitHub Stats:
-<p align="left">
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadii2504&show_icons=true&locale=en" alt="aadii2504" /></p>
-
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aadii2504&icon=4&color=6)](https://visitcount.itsvg.in)
