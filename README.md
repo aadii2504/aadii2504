@@ -19,7 +19,7 @@
 
 
 ---
-## <a href="https://aadiiblogs.hashnode.dev/"><img src="https://github.com/aadii2504/aadii2504/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Featured Blogs on Hashnode
+## <a href="https://aadiiblogs.hashnode.dev/"><img src="https://github.com/aadii2504/aadii2504/blob/main/hashnode.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Featured Blogs on Hashnode
 
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://aadiiblogs.hashnode.dev/mastering-axios-with-asyncawait-unleashing-the-power-of-http-requests-in-javascript" title="Why Next.js Stands Out"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720231537647/c52d0ade-4aa9-432c-a4f9-d2329b3fdb7c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="🌐 Mastering Axios with Async/Await"   /></a>
