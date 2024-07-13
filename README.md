@@ -18,46 +18,30 @@
 
 
 
-# 💻 Featured Blog Posts
+---
+## <a href="https://aadiiblogs.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Featured Blogs on Hashnode
 
-<!-- BEGIN BLOG-CARDS -->
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; padding: 10px;">
-
-  <!-- Blog 1 -->
-  <a href="https://aadiiblogs.hashnode.dev/mastering-axios-with-asyncawait-unleashing-the-power-of-http-requests-in-javascript" style="text-decoration: none; width: 100px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720231537647/c52d0ade-4aa9-432c-a4f9-d2329b3fdb7c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Mastering Axios" style="width: 50%; height: 50%; object-fit: cover;">
-    <div style="padding: 8px; font-size: 14px; text-align: center; color: #333;">
-      🌐 Mastering Axios with Async/Await
-    </div>
-  </a>
-
-  <!-- Blog 2 -->
-  <a href="https://aadiiblogs.hashnode.dev/making-the-switch-from-javascript-to-typescript" style="text-decoration: none; width: 100px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719984163960/5f2bc0bc-ae89-40c9-be27-b7c91bd224ec.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Switch to TypeScript" style="width: 50%; height: 50%; object-fit: cover;">
-    <div style="padding: 8px; font-size: 14px; text-align: center; color: #333;">
-      🚀 Making the Switch to TypeScript
-    </div>
-  </a>
-
-  <!-- Blog 3 -->
-  <a href="https://aadiiblogs.hashnode.dev/the-magical-trio-of-javascript-map-filter-and-reduce" style="text-decoration: none; width: 100px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719510547053/1ef392c1-0fd0-4a3b-9fdf-eef6f1e802be.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="JavaScript Map, Filter, Reduce" style="width: 50%; height: 50%; object-fit: cover;">
-    <div style="padding: 8px; font-size: 14px; text-align: center; color: #333;">
-      The Magical Trio of JavaScript
-    </div>
-  </a>
-
-  <!-- Blog 4 -->
-  <a href="https://aadiiblogs.hashnode.dev/unleashing-the-power-of-docker-in-full-stack-development-a-story-of-transformation" style="text-decoration: none; width: 100px; border-radius: 8px; overflow: hidden; display: block; border: 1px solid #ddd; background: #f9f9f9; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720110735671/4088306f-cb3b-40e4-a0ed-315d71bc54ec.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Power of Docker" style="width: 50%; height: 50%; object-fit: cover;">
-    <div style="padding: 8px; font-size: 14px; text-align: center; color: #333;">
-      🌟 Unleashing the Power of Docker
-    </div>
-  </a>
-
-</div>
-<!-- END BLOG-CARDS -->
-
+<!-- HASHNODE_BLOG:START -->
+<table><tr><td><a href="https://aadiiblogs.hashnode.dev/mastering-axios-with-asyncawait-unleashing-the-power-of-http-requests-in-javascript" title="Why Next.js Stands Out"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720231537647/c52d0ade-4aa9-432c-a4f9-d2329b3fdb7c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="🌐 Mastering Axios with Async/Await"   /></a>
+<a href="https://aadiiblogs.hashnode.dev/mastering-axios-with-asyncawait-unleashing-the-power-of-http-requests-in-javascript" title="🌐 Mastering Axios with Async/Await"><strong> 🌐 Mastering Axios with Async/Await</strong></a>
+<div><strong>06 Jul 2024</strong></div>
+<br/> Introduction
+In the world of web development, making HTTP requests is a fundamental task. Whether you're fetching data from an API, submitting form data, or synchronizing information between different systems, handling HTTP requests efficiently is crucial. Enter Axios, a powerful and versatile library that simplifies HTTP requests. 🚀✨...</td>
+    <td><a href="https://aadiiblogs.hashnode.dev/making-the-switch-from-javascript-to-typescript" title="🚀 Making the Switch: From JavaScript to TypeScript 🎉"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719984163960/5f2bc0bc-ae89-40c9-be27-b7c91bd224ec.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="🚀 Making the Switch: From JavaScript to TypeScript 🎉"/></a>
+<a href="https://aadiiblogs.hashnode.dev/making-the-switch-from-javascript-to-typescript" title="🚀 Making the Switch: From JavaScript to TypeScript 🎉"><strong>🚀 Making the Switch: From JavaScript to TypeScript 🎉</strong></a>
+<div><strong>03 Jul 2024</strong></div>
+<br/> Every developer’s story begins with JavaScript. It's dynamic, flexible, and—let's face it—a bit quirky. My journey was no different. I loved the freedom JavaScript offered. Variables could be anything, and functions could return whatever they wanted. It was like a Wild West of coding where anything goes. But as projects grew in complexity, that freedom started to feel more like chaos....</td></tr><tr>
+    <td><a href="https://aadiiblogs.hashnode.dev/the-magical-trio-of-javascript-map-filter-and-reduce" title="The Magical Trio of JavaScript: Map, Filter, and Reduce">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719510547053/1ef392c1-0fd0-4a3b-9fdf-eef6f1e802be.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Magical Trio of JavaScript: Map, Filter, and Reduce"/></a>
+<a href="https://aadiiblogs.hashnode.dev/the-magical-trio-of-javascript-map-filter-and-reduce" title="The Magical Trio of JavaScript: Map, Filter, and Reduce"><strong>The Magical Trio of JavaScript: Map, Filter, and Reduce</strong></a>
+<div><strong>27 Jun 2024</strong></div>
+<br/> Introduction
+In the enchanted land of JavaScript, three powerful artifacts exist, known as Map, Filter, and Reduce. These magical tools have the power to transform arrays, conquer complex data structures, and make developers' lives easier. Join us on an epic journey to uncover the secrets of these mystical methods and learn how to wield them in your own coding quests. 🏰✨....</td>
+    <td><a href="https://aadiiblogs.hashnode.dev/unleashing-the-power-of-docker-in-full-stack-development-a-story-of-transformation" title="Docker A Story of Transformation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720110735671/4088306f-cb3b-40e4-a0ed-315d71bc54ec.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Docker A Story of Transformation"   /></a>
+<a href="https://aadiiblogs.hashnode.dev/unleashing-the-power-of-docker-in-full-stack-development-a-story-of-transformation" title="Docker A Story of Transformation"><strong>Docker A Story of Transformation</strong></a>
+<div><strong>04 Jul 2024</strong></div>
+<br/> Picture this: you're a full-stack developer juggling multiple projects, each with its own unique environment. Setting up these environments manually is time-consuming and prone to errors. You've heard whispers of a tool that can transform this chaos into order....</td></tr></table>
+<!-- HASHNODE_BLOG:END -->
 
 
 
