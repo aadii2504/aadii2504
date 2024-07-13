@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya!
+# 👋 Hi, I'm Aditya! [![](https://visitcount.itsvg.in/api?id=aadii2504&icon=4&color=6)](https://visitcount.itsvg.in)
 👩🏻‍💻 Software Engineer- Full Stack Dev sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Pursing [Electronics and Telecommunication] at the University of Pune<br/>
 🌷 #learninginpublic in my [digital garden](https://aadiiblogs.hashnode.dev/)<br/>
@@ -42,17 +42,3 @@ In the enchanted land of JavaScript, three powerful artifacts exist, known as Ma
 <div><strong>04 Jul 2024</strong></div>
 <br/> Picture this: you're a full-stack developer juggling multiple projects, each with its own unique environment. Setting up these environments manually is time-consuming and prone to errors. You've heard whispers of a tool that can transform this chaos into order....</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
-
-
-
-
-
-
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=aadii2504&icon=4&color=6)](https://visitcount.itsvg.in)
-
-
